@@ -43,8 +43,10 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 
 ## Projects
-- Detection Lab
-- Three Legged DMZ
-- Network Security Analyst Home Lab
+- Ethical Hacking & Pentesting Home Lab
+- Artificial Intelligence Voice Assistant For creating notes made with Python programming and Json.
+- Snake Game created with Python programming lanuguage.
+- File to mp3 convertor (python).
+  
 
 
