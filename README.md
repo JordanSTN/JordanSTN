@@ -38,7 +38,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/-Azure900%2B-FF0000?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure900%2B-FF0000?&style=for-the-badge&logo=Microsoft&logoColor=blue" />
 </div>
 
 
